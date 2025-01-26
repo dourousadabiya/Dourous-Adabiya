@@ -74,7 +74,7 @@ header {
 }
 
 .logo img {
-    max-height: 75px;
+    max-height: 100px;
     transition: transform 0.3s ease;
 }
 
